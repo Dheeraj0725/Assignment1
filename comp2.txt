@@ -1,2 +1,2 @@
-This is file 2 for comparision btwn files. Assignment 3
-Author of this file is Dheeraj
+This is file 2 for comparision btwn files. Assignment 3 for GIT
+Author of this file is Dheeraj 
